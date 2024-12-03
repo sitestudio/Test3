@@ -1,5 +1,6 @@
 using System;
 
+// $livedoc$ SampleCSharpApp
 namespace SampleCSharpApp
 {
     class Program
